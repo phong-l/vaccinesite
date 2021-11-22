@@ -1,0 +1,195 @@
+country,continent,required
+Algeria,AFRICA,No
+Angola,AFRICA,No
+Benin,AFRICA,No
+Botswana,AFRICA,No
+Burkina,AFRICA,No
+Burundi,AFRICA,No
+Cameroon,AFRICA,No
+Cape Verde,AFRICA,No
+Central African Republic,AFRICA,No
+Chad,AFRICA,No
+Comoros,AFRICA,No
+Congo,AFRICA,No
+"Congo, Democratic Republic of",AFRICA,No
+Djibouti,AFRICA,No
+Egypt,AFRICA,No
+Equatorial Guinea,AFRICA,No
+Eritrea,AFRICA,No
+Ethiopia,AFRICA,No
+Gabon,AFRICA,No
+Gambia,AFRICA,No
+Ghana,AFRICA,No
+Guinea,AFRICA,No
+Guinea-Bissau,AFRICA,No
+Ivory Coast,AFRICA,No
+Kenya,AFRICA,No
+Lesotho,AFRICA,No
+Liberia,AFRICA,No
+Libya,AFRICA,No
+Madagascar,AFRICA,No
+Malawi,AFRICA,No
+Mali,AFRICA,No
+Mauritania,AFRICA,No
+Mauritius,AFRICA,No
+Morocco,AFRICA,No
+Mozambique,AFRICA,No
+Namibia,AFRICA,No
+Niger,AFRICA,No
+Nigeria,AFRICA,No
+Rwanda,AFRICA,No
+Sao Tome and Principe,AFRICA,No
+Senegal,AFRICA,No
+Seychelles,AFRICA,No
+Sierra Leone,AFRICA,No
+Somalia,AFRICA,No
+South Africa,AFRICA,No
+South Sudan,AFRICA,No
+Sudan,AFRICA,No
+Swaziland,AFRICA,No
+Tanzania,AFRICA,No
+Togo,AFRICA,No
+Tunisia,AFRICA,No
+Uganda,AFRICA,No
+Zambia,AFRICA,No
+Zimbabwe,AFRICA,No
+Afghanistan,ASIA,No
+Bahrain,ASIA,No
+Bangladesh,ASIA,No
+Bhutan,ASIA,No
+Brunei,ASIA,No
+Burma (Myanmar),ASIA,No
+Cambodia,ASIA,No
+China,ASIA,No
+East Timor,ASIA,No
+India,ASIA,No
+Indonesia,ASIA,No
+Iran,ASIA,No
+Iraq,ASIA,No
+Israel,ASIA,No
+Japan,ASIA,No
+Jordan,ASIA,No
+Kazakhstan,ASIA,No
+"Korea, North",ASIA,No
+"Korea, South",ASIA,No
+Kuwait,ASIA,No
+Kyrgyzstan,ASIA,No
+Laos,ASIA,No
+Lebanon,ASIA,No
+Malaysia,ASIA,No
+Maldives,ASIA,No
+Mongolia,ASIA,No
+Nepal,ASIA,No
+Oman,ASIA,No
+Pakistan,ASIA,No
+Philippines,ASIA,No
+Qatar,ASIA,No
+Russian Federation,ASIA,No
+Saudi Arabia,ASIA,No
+Singapore,ASIA,No
+Sri Lanka,ASIA,No
+Syria,ASIA,No
+Tajikistan,ASIA,No
+Thailand,ASIA,No
+Turkey,ASIA,No
+Turkmenistan,ASIA,No
+United Arab Emirates,ASIA,No
+Uzbekistan,ASIA,No
+Vietnam,ASIA,No
+Yemen,ASIA,No
+Albania,EUROPE,No
+Andorra,EUROPE,No
+Armenia,EUROPE,No
+Austria,EUROPE,No
+Azerbaijan,EUROPE,No
+Belarus,EUROPE,No
+Belgium,EUROPE,No
+Bosnia and Herzegovina,EUROPE,No
+Bulgaria,EUROPE,No
+Croatia,EUROPE,No
+Cyprus,EUROPE,No
+CZ,EUROPE,No
+Denmark,EUROPE,No
+Estonia,EUROPE,No
+Finland,EUROPE,No
+France,EUROPE,No
+Georgia,EUROPE,No
+Germany,EUROPE,No
+Greece,EUROPE,No
+Hungary,EUROPE,No
+Iceland,EUROPE,No
+Ireland,EUROPE,No
+Italy,EUROPE,No
+Latvia,EUROPE,No
+Liechtenstein,EUROPE,No
+Lithuania,EUROPE,No
+Luxembourg,EUROPE,No
+Macedonia,EUROPE,No
+Malta,EUROPE,No
+Moldova,EUROPE,No
+Monaco,EUROPE,No
+Montenegro,EUROPE,No
+Netherlands,EUROPE,No
+Norway,EUROPE,No
+Poland,EUROPE,No
+Portugal,EUROPE,No
+Romania,EUROPE,No
+San Marino,EUROPE,No
+Serbia,EUROPE,No
+Slovakia,EUROPE,No
+Slovenia,EUROPE,No
+Spain,EUROPE,No
+Sweden,EUROPE,No
+Switzerland,EUROPE,No
+Ukraine,EUROPE,No
+United Kingdom,EUROPE,No
+Vatican City,EUROPE,No
+Antigua and Barbuda,NORTH AMERICA,No
+Bahamas,NORTH AMERICA,No
+Barbados,NORTH AMERICA,No
+Belize,NORTH AMERICA,No
+Canada,NORTH AMERICA,No
+Costa Rica,NORTH AMERICA,No
+Cuba,NORTH AMERICA,No
+Dominica,NORTH AMERICA,No
+Dominican Republic,NORTH AMERICA,No
+El Salvador,NORTH AMERICA,No
+Grenada,NORTH AMERICA,No
+Guatemala,NORTH AMERICA,No
+Haiti,NORTH AMERICA,No
+Honduras,NORTH AMERICA,No
+Jamaica,NORTH AMERICA,No
+Mexico,NORTH AMERICA,No
+Nicaragua,NORTH AMERICA,No
+Panama,NORTH AMERICA,No
+Saint Kitts and Nevis,NORTH AMERICA,No
+Saint Lucia,NORTH AMERICA,No
+Saint Vincent and the Grenadines,NORTH AMERICA,No
+Trinidad and Tobago,NORTH AMERICA,No
+US,NORTH AMERICA,No
+Australia,OCEANIA,No
+Fiji,OCEANIA,No
+Kiribati,OCEANIA,No
+Marshall Islands,OCEANIA,No
+Micronesia,OCEANIA,No
+Nauru,OCEANIA,No
+New Zealand,OCEANIA,No
+Palau,OCEANIA,No
+Papua New Guinea,OCEANIA,No
+Samoa,OCEANIA,No
+Solomon Islands,OCEANIA,No
+Tonga,OCEANIA,No
+Tuvalu,OCEANIA,No
+Vanuatu,OCEANIA,No
+Argentina,SOUTH AMERICA,No
+Bolivia,SOUTH AMERICA,No
+Brazil,SOUTH AMERICA,No
+Chile,SOUTH AMERICA,No
+Colombia,SOUTH AMERICA,No
+Ecuador,SOUTH AMERICA,No
+Guyana,SOUTH AMERICA,No
+Paraguay,SOUTH AMERICA,No
+Peru,SOUTH AMERICA,No
+Suriname,SOUTH AMERICA,No
+Uruguay,SOUTH AMERICA,No
+Venezuela,SOUTH AMERICA,No

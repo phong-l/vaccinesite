@@ -1,0 +1,47 @@
+{% extends '_base.html' %}
+{% load static %}
+{% block title %}
+<title>Testing</title>
+{% endblock title %}
+{% block content %}
+<div class="home-text">
+<p>Check if a country requires vaccination to enter.</p>
+</div>
+<div class="row input-wrapper">
+    <form action="" method="get">
+    <input type="text" placeholder="Search for a country.." name="searchcountry"/>
+        <input type="search" list="continents" placeholder="Search continents.." name="searchcontinent"/>
+        <datalist id="continents">
+       <option value="Europe">
+       <option value="South America">
+       <option value="North America">
+            <option value="Oceania">
+            <option value="Asia">
+            <option value="Africa">
+            <option value="Antarctica">
+    </datalist>
+        <button type="submit">Search</button>
+    </form>
+    <form action=""></form>
+</div>
+<div class="table-wrapper">
+<table class="table table-sm center borderless header-fixed">
+    <thead class="thead-dark">
+        <tr>
+            <th>Country</th>
+            <th>Continent</th>
+            <th>Required</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for country in countries %}
+            <tr>
+                <td>{{ country.name }}</td>
+                <td>{{ country.continent }}</td>
+                <td>{{ country.required }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+        </table>
+    </div>
+{% endblock content %}

@@ -1,0 +1,36 @@
+.home-text {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.table {
+  height: 100px;
+  overflow: auto;
+  width: 100%
+  display:inline-block;
+}
+
+.input-wrapper {
+margin-top: 5%;
+margin-left: 25%;
+}
+
+.table-wrapper {
+    margin-top: 1%;
+    max-height: 20vw;
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+thead, tbody tr {
+display: table;
+width: 100%;
+table-layout: fixed;
+}
+
+tbody {
+  display: block;
+  overflow-y: auto;
+  table-layout: fixed;
+  max-height: 200px;
+}
